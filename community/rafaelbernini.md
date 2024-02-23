@@ -17,8 +17,3 @@ Atuo na área de desenvolvimento web e infraestrutura.
 
 ## 🛠 Habilidades
 PHP, Linux, SQL Server, Oracle, HTML , CSS , JavaScript, Java, Windows, Infraestutura
-
-
-## ⭐Minhas contribuições
-
-[![Linguagens](https://github-readme-stats.vercel.app/api?username=Rafaelagarcia&show_icons=true&locale=pt-BR&&theme=dark)](https://github.com/rafaelbernini)
